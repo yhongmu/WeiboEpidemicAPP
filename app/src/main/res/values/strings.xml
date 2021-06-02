@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeiboEpidemic</string>
+    <string name="title_today">实时新冠疫情热搜</string>
+    <string name="item_today">Today</string>
+    <string name="title_history">历史新冠疫情热搜</string>
+    <string name="item_history">History</string>
+    <string name="title_home">我的</string>
+    <string name="item_home">Home</string>
+
+    <string name="hint_today">实时新冠疫情热点，可下拉刷新</string>
+    <string name="hint_history">历史新冠疫情热点，可通过时间、热度筛选数据</string>
+</resources>
